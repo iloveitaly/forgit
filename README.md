@@ -6,6 +6,7 @@
 <p align="center">
     <a href="https://github.com/wfxr/forgit/actions">
         <img src="https://github.com/wfxr/forgit/workflows/ci/badge.svg"/>
+
     </a>
     <a href="https://wfxr.mit-license.org/2017">
         <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg"/>
